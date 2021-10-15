@@ -51,13 +51,13 @@
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.twitter.com/2jad0'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.twitter.com/18jad_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/18jad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
   <a href="https://codepen.io/jadx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jadx" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15927691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jadd" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100070689440021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dizer dev" height="30" width="40" /></a>
 <a href="https://instagram.com/18jad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="18jad" height="30" width="40" /></a><br>
-  📫 Reach me at <a href="mailto:jadoyahya@gmail.com">jadoyahya@gmail.com</a> OR <a href="mailto:dizerdev@gmail.com">dizerdev@gmail.com</a>
+  📫 Reach me at <a href="mailto:jadoyahya@gmail.com">jadoyahya@gmail.com</a> OR <a href="mailto:18jady@gmail.com">18jady@gmail.com</a>
 
 
 <h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
