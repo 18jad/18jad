@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="100%" src="https://i.ibb.co/55Fnwzw/banner-g.png" alt="cover" />
+<img width="100%" height="100%" src="https://i.ibb.co/m6pJN03/finished.png" alt="cover" />
 </div>
 
 <h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -38,15 +38,15 @@
 
 <h2 align="center"> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
 <div align="center">
-<p>This are the languages i worked on recently. (This is are all recorded with my editor)</p>
+<p>This are the languages i worked on recently.</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=False&theme=dracula&hide_border=True"/>
 </div>
 <br>
 
 
 <h2 align="center"> My GitHub Stats <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' width='30px'> </h2>
-
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=1&column=6&theme=juicyfresh&no-frame=true" alt="18jad" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18jad&theme=tokyonight&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18jad&&theme=tokyonight&count_private=true" alt="dizerx" />
+</div>
