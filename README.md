@@ -1,3 +1,4 @@
+<img src="https://i0.wp.com/windowscustomization.com/wp-content/uploads/2019/07/Configurable-Matrix.gif?resize=600%2C432&quality=80&strip=all&ssl=1" width="100%" height="60px">
 <div align="center">
    <img width="100%" height="100%" src="https://i.ibb.co/m6pJN03/finished.png" alt="cover" />
 </div>
