@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://camo.githubusercontent.com/a5fc84968ac977c132ee6c6291b2f42973f00390c1fdaaf6591dc1c22d96a8c9/68747470733a2f2f69302e77702e636f6d2f77696e646f7773637573746f6d697a6174696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f436f6e666967757261626c652d4d61747269782e6769663f726573697a653d363030253243343332267175616c6974793d38302673747269703d616c6c2673736c3d31" width="100%" height="60px">
-   <img width="100%" height="100%" src="https://i.ibb.co/m6pJN03/finished.png" alt="cover" />
+   <img width="100%" height="100%" src="https://i.ibb.co/rbhWPcp/image.png" alt="cover" />
 <img src="https://camo.githubusercontent.com/a5fc84968ac977c132ee6c6291b2f42973f00390c1fdaaf6591dc1c22d96a8c9/68747470733a2f2f69302e77702e636f6d2f77696e646f7773637573746f6d697a6174696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f436f6e666967757261626c652d4d61747269782e6769663f726573697a653d363030253243343332267175616c6974793d38302673747269703d616c6c2673736c3d31" width="100%" height="60px">
 </div>
 <h1 align="center"> 
@@ -71,9 +71,9 @@ My name is Jad Yahya. Thank You for taking the time to view my GitHub Profile :s
 <td>
 <img src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=juicyfresh&no-frame=true&margin-w=80&margin-h=15" alt="18jad" />
 </td>
-<td>
+<td align="center>
+<p aling="center">Languages i worked on this week</p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=False&theme=dracula&hide_border=True"/>
-
 </td>
 </tr>
 <tr>
