@@ -71,8 +71,9 @@ My name is Jad Yahya. Thank You for taking the time to view my GitHub Profile :s
 <td>
 <img src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=juicyfresh&no-frame=true&margin-w=80&margin-h=15" alt="18jad" />
 </td>
-<td align="center>
-<p aling="center">Languages i worked on this week</p>
+	<p align="right">Languages i worked on this week</p>
+<td align="center">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=False&theme=dracula&hide_border=True"/>
 </td>
 </tr>
