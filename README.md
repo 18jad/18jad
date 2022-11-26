@@ -23,7 +23,7 @@ My name is Jad Yahya. Thank You for taking the time to view my GitHub Profile :s
 		"age": 19,
 		"nationality": "Lebanese",
 		"location": "Lebanon, Tripoli",
-		"status": "Unemployed, still learning.",
+		"status": "Fully loaded with a promising set of skills and looking for a job...",
 		"skills": "HTML, CSS, JavaScript, Python, C, C++, PHP, etc...",
 		"more": "What else are you looking for? :) Hit me up!",
 	}, 
@@ -43,7 +43,7 @@ My name is Jad Yahya. Thank You for taking the time to view my GitHub Profile :s
 <table width="100%" align="center">
 	<tr>
 		<td align="center" width="96">
-		<img align="center" src="https://cdn-icons-png.flaticon.com/512/1237/1237439.png" alt="email" title="email" height="60" width="70" />
+		<img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="email" title="email" height="60" width="70" />
 		</td>
 		<td align="center" width="96">
 			<a href="https://www.linkedin.com/in/jad-yahya-20929620b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" title="Linkedin" height="60" width="70"  /></a>
