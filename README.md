@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
-   <img width="100%" height="100%" src="https://user-images.githubusercontent.com/74220144/202844966-2e58288e-0a6e-4154-bf87-f2a775ac16f7.png" alt="cover" />
+   <img width="100%" height="100%" src="https://i.ibb.co/0Xy4qcG/gaga.png" alt="cover" />
 <img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
 </div>
 <h1 align="center"> 
