@@ -30,8 +30,8 @@
 }
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/18jad/github-stats-transparent/output/generated/overview.svg">
-<img align="right" src="https://raw.githubusercontent.com/18jad/github-stats-transparent/output/generated/languages.svg">
+<img align="left" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/overview.svg?token=GHSAT0AAAAAAB3EEOTKSQZEOVIM7AJHQHZIY4UWZSA">
+<img align="right" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/languages.svg?token=GHSAT0AAAAAAB3EEOTL3EKFVJ6Y7JDA4UHCY4UWZRA">
 </div>
 
 <table width="100%" align="center">
