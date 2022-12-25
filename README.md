@@ -19,7 +19,7 @@
 		"age": 19,
 		"nationality": "Lebanese",
 		"location": "Lebanon, Tripoli",
-		"status": "Fully loaded with a promising set of skills and looking for a job...",
+		"status": "Working at Poyesis",
 		"skills": "HTML, CSS, JavaScript, Python, C, C++, PHP, etc...",
 		"more": "What else are you looking for? :) Hit me up!",
 	}, 
