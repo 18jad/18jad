@@ -1,9 +1,9 @@
 <div align="center" id="welcome">
-	<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
+	<img src="https://user-images.githubusercontent.com/74220144/209477883-2645c644-7b10-491b-b45b-4afb7bcb1ba4.gif" width="100%" />
 	<a href="#welcome">
 		<img src="https://user-images.githubusercontent.com/74220144/209476187-245b4554-7930-4e87-be33-b9c594990abe.png" width="100%" />
 	</a>
-	<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
+	<img src="https://user-images.githubusercontent.com/74220144/209477883-2645c644-7b10-491b-b45b-4afb7bcb1ba4.gif" width="100%" />
 	<img src="https://user-images.githubusercontent.com/74220144/209476356-21a390e0-12a8-415a-a2c5-b4f55f00519d.png" height="50px" />
 	<a href="#profile_views">
 		<img src="https://komarev.com/ghpvc/?username=18jad&label=Profile%20views&color=yellow&style=for-the-badge" id="profile_view" />
@@ -22,7 +22,7 @@
 
 | <div align="center"> <a href="mailto:jadoyahya@gmail.com"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476480-a489e300-b84d-46b9-8bb5-24e28e33b8d4.png" alt="email" title="email" height="60" /> </a> </div> | <div align="center"> <a href="http://www.linkedin.com/in/jad-yahya-20929620b"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476595-6b494724-f365-465c-842d-37ffa0a1d329.png" alt="linkedin" title="linkedin" height="60" /> </a> </div> | <div align="center"> <a href="https://www.instagram.com/18jad"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476659-e2306553-2245-45a2-95b8-9dd3c1e1a3d9.png" alt="instagram" title="instagram" height="60" /> </a> </div> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <div align="center"> <a href="mailto:jadoyahya@gmail.com">ㅤㅤㅤ jadoyahya@gmail.com ㅤㅤㅤ</a> </div>                                                                                                                                                      | <div align="center"> <a href="http://www.linkedin.com/in/jad-yahya-20929620b"> @jadyh </a> </div>                                                                                                                                                                         | <div align="center"> <a href="https://www.instagram.com/18jad"> @18jad </a> </div>                                                                                                                                                                           | 
+| <div align="center"> <a href="mailto:jadoyahya@gmail.com">ㅤjadoyahya@gmail.comㅤ</a> </div>                                                                                                                                                    | <div align="center"> <a href="http://www.linkedin.com/in/jad-yahya-20929620b"> @jadyh </a> </div>                                                                                                                                                                         | <div align="center"> <a href="https://www.instagram.com/18jad"> @18jad </a> </div>                                                                                                                                                                           |
 
 <table align="center">
 <tr>
@@ -105,4 +105,3 @@
     </td>
   </tr>
 </table>
-
