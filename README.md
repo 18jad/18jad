@@ -74,14 +74,14 @@
   <tr>
     <td>
       <img
-        src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=juicyfresh&no-frame=true&margin-w=80&margin-h=15"
+        src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=transparent&no-frame=true&margin-w=80&margin-h=15"
         alt="18jad"
       />
     </td>
     <td align="center">
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=False&theme=dracula&hide_border=True"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=@Dizer&compact=False&theme=transparent&hide_border=True"
       />
     </td>
   </tr>
@@ -93,13 +93,13 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api?username=18jad&count_private=true&show_icons=true&theme=transparent&hide_border=True"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=18jad&&theme=tokyonight&count_private=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=18jad&theme=tokyonight_duo&count_private=true&hide_border=true"
         alt="dizerx"
       />
     </td>
