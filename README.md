@@ -1,101 +1,76 @@
-<div align="center">
-<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
-   <img width="100%" height="100%" src="https://i.ibb.co/0Xy4qcG/gaga.png" alt="cover" />
-<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
+<div align="center" id="welcome">
+	<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
+	<a href="#welcome">
+		<img src="https://user-images.githubusercontent.com/74220144/209476187-245b4554-7930-4e87-be33-b9c594990abe.png" width="100%" />
+	</a>
+	<img src="https://s4.gifyu.com/images/ezgif.com-gif-maker-1050674d3a698beedb.gif" width="100%" height="60px">
+	<img src="https://user-images.githubusercontent.com/74220144/209476356-21a390e0-12a8-415a-a2c5-b4f55f00519d.png" height="50px" />
+	<a href="#profile_views">
+		<img src="https://komarev.com/ghpvc/?username=18jad&label=Profile%20views&color=yellow&style=for-the-badge" id="profile_view" />
+	</a>
+	<a href="#starts">
+		<img src="https://img.shields.io/github/stars/18jad?label=Stars&color=yellow&style=for-the-badge" id="starts" /> 
+	</a>
+	<a href="#followers">
+		<img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&color=yellow&style=for-the-badge" id="followers" />
+	</a>
 </div>
-<h1 align="center"> 
-	Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-</h1>
-</div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=18jad&label=Profile%20views&color=0e75b6&style=flat" alt="dizerx" />
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/18jad?label=Followers&style=social">
-	<img src="https://img.shields.io/github/stars/18jad?label=Stars" alt="Total Stars"> 
-</div>
+<img src="https://user-images.githubusercontent.com/74220144/209476356-21a390e0-12a8-415a-a2c5-b4f55f00519d.png" height="1px" />
+
+<!-- <img src="https://user-images.githubusercontent.com/74220144/209476356-21a390e0-12a8-415a-a2c5-b4f55f00519d.png" height="1px" /> -->
+<!-- <img src="https://raw.githubusercontent.com/donspablo/donPabloNow/main/assets/bar.gif" width="100%" /> -->
+
+| <div align="center"> <a href="mailto:jadoyahya@gmail.com"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476480-a489e300-b84d-46b9-8bb5-24e28e33b8d4.png" alt="email" title="email" height="60" /> </a> </div> | <div align="center"> <a href="http://www.linkedin.com/in/jad-yahya-20929620b"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476595-6b494724-f365-465c-842d-37ffa0a1d329.png" alt="linkedin" title="linkedin" height="60" /> </a> </div> | <div align="center"> <a href="https://www.instagram.com/18jad"> <img align="center" src="https://user-images.githubusercontent.com/74220144/209476659-e2306553-2245-45a2-95b8-9dd3c1e1a3d9.png" alt="instagram" title="instagram" height="60" /> </a> </div> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <div align="center"> <a href="mailto:jadoyahya@gmail.com">ㅤㅤㅤ jadoyahya@gmail.com ㅤㅤㅤ</a> </div>                                                                                                                                                      | <div align="center"> <a href="http://www.linkedin.com/in/jad-yahya-20929620b"> @jadyh </a> </div>                                                                                                                                                                         | <div align="center"> <a href="https://www.instagram.com/18jad"> @18jad </a> </div>                                                                                                                                                                           | 
+
+<table align="center">
+<tr>
+</tr>
+<tr>
+<td>
 
 ```json
 {
-	"aboutMe": {
-		"name": "Jad Yahya",
-		"age": 19,
-		"nationality": "Lebanese",
-		"location": "Lebanon, Tripoli",
-		"status": "Working at Poyesis",
-		"skills": "HTML, CSS, JavaScript, Python, C, C++, PHP, etc...",
-		"more": "What else are you looking for? :) Hit me up!",
-	}, 
-	"contact": {
-		"email": "jadoyahya@gmail.com",
-		"more": "check socials below!"
-	}
+  "aboutMe": {
+    "name": "Jad Yahya",
+    "age": 19,
+    "nationality": "Lebanese",
+    "location": "Lebanon, Tripoli",
+    "status": "Working at Poyesis",
+    "skills": "HTML, CSS, JavaScript, Python, C, C++, PHP, etc",
+    "more": "What else are you looking for? :) Hit me up!"
+  },
+  "contact": {
+    "email": "jadoyahya@gmail.com",
+    "more": "check socials below!"
+  }
 }
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/overview.svg?token=GHSAT0AAAAAAB3EEOTKSQZEOVIM7AJHQHZIY4UWZSA">
-<img align="right" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/languages.svg?token=GHSAT0AAAAAAB3EEOTL3EKFVJ6Y7JDA4UHCY4UWZRA">
-</div>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="96">
-      <img
-        align="center"
-        src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"
-        alt="email"
-        title="email"
-        height="60"
-        width="70"
-      />
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/jad-yahya-20929620b/" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="linkedin"
-          title="Linkedin"
-          height="60"
-          width="70"
-      /></a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://fb.com/profile.php?id=100070689440021" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-          alt="facebook"
-          title="Facebook"
-          height="60"
-          width="70"
-      /></a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://instagram.com/18jad" target="blank"
-        ><img
-          align="center"
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-          alt="instagram"
-          title="Instagram"
-          height="60"
-          width="70"
-      /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="700px" align="center">
-      <b
-        >📫 Reach me at
-        <a href="mailto:jadoyahya@gmail.com">jadoyahya@gmail.com</a> OR
-        <a href="mailto:18jady@gmail.com">18jady@gmail.com</a></b
-      >
-    </td>
-    <td>Linkedin</td>
-    <td>Facebook</td>
-    <td>Instagram</td>
-  </tr>
+</td>
+	
+<td align="center">
+	<img align="center" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/languages.svg?token=GHSAT0AAAAAAB3EEOTL3EKFVJ6Y7JDA4UHCY4UWZRA">
+	<img align="center" src="https://raw.githubusercontent.com/18jad/stats-readme/output/generated/overview.svg?token=GHSAT0AAAAAAB3EEOTKSQZEOVIM7AJHQHZIY4UWZSA">
+</td>
+	
+</tr>
 </table>
 
-<h2 align="center">📊 Statistics:</h2>
 <table align="center">
+<tr>
+<th id="trophies">
+	<a href="#trophies">
+		<img align="center" src="https://user-images.githubusercontent.com/74220144/209477201-a591ebae-5d6a-41b8-9556-a901972810d1.png" alt="github_trophies" title="github_trophies" height="60" />
+	</a>
+</th>
+<th id="weekly_stats">
+	<a href="#weekly_stats">
+		<img align="center" src="https://user-images.githubusercontent.com/74220144/209477261-012f6fb3-50df-46bb-8de4-4da1bff2fa72.png" alt="weekly_stats" title="languages_worked_on_this_week" height="60" />
+	</a>
+</th>
+</tr>
   <tr>
     <td>
       <img
@@ -103,7 +78,6 @@
         alt="18jad"
       />
     </td>
-    <p align="right">Languages i worked on this week</p>
     <td align="center">
       <img
         align="center"
@@ -111,6 +85,10 @@
       />
     </td>
   </tr>
+<tr>
+<th>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</th>
+<th>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ</th>
+</tr>
   <tr>
     <td>
       <img
