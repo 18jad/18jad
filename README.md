@@ -74,7 +74,7 @@
   <tr>
     <td>
       <img
-        src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=transparent&no-frame=true&margin-w=80&margin-h=15"
+        src="https://github-profile-trophy.vercel.app/?username=18jad&no-bg=true&row=2&column=3&theme=transparent&no-frame=true&margin-w=80&margin-h=16"
         alt="18jad"
       />
     </td>
