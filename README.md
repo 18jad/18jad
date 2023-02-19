@@ -34,11 +34,11 @@
 {
   "aboutMe": {
     "name": "Jad Yahya",
-    "age": 19,
+    "age": 20,
     "nationality": "Lebanese",
     "location": "Lebanon, Tripoli",
     "status": "Working at Poyesis",
-    "skills": "HTML, CSS, JavaScript, Python, C, C++, PHP, etc",
+    "skills": "TypeScript, NextJS, NestJS, Python, C++, PHP, etc..",
     "more": "What else are you looking for? :) Hit me up!"
   },
   "contact": {
